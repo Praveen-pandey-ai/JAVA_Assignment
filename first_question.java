@@ -1,4 +1,4 @@
-// First_question.java
+// Write a program to demonstrate encapsulation in Java
 
 class Student {
     private String name;
